@@ -157,61 +157,56 @@ Increase every student’s grade by 5 points in the dictionary.
 ---
 
 # Exercises – Strings and Lists
-1. Reverse a string
 
-Write a function that takes a string and returns the reversed string using slicing.
-Example: "hello" → "olleh"
-
----
-2. First and last characters
+1. First and last characters
 
 Write a function that prints the first and last character of a string.
 Example: "Python" → "P", "n"
 
 ---
-3. Count vowels in a string
+2. Count vowels in a string
 
 Write a function that counts how many vowels (a, e, i, o, u) are in a string using a loop.
 Example: "hello world" → 3
 
 ---
-4. Every second character
+3. Every second character
 
 Write a function that returns every second character of a string using slicing.
 Example: "abcdefgh" → "bdfh"
 
 ---
-5. Check palindrome
+4. Check palindrome
 
 Write a function that checks if a string is a palindrome (same forwards and backwards) using slicing.
 Example: "radar" → True, "hello" → False
 
 ---
-6. Sum numbers in a list
+5. Sum numbers in a list
 
 Write a function that takes a list of numbers and returns their sum using a loop.
 Example: [1, 2, 3, 4] → 10
 
 ---
-7. Reverse a list
+6. Reverse a list
 
 Write a function that reverses a list using slicing.
 Example: [1,2,3,4] → [4,3,2,1]
 
 ---
-8. Extract sublist
+7. Extract sublist
 
 Write a function that returns a slice of a list from index start to end (not inclusive).
 Example: [10,20,30,40,50], start=1, end=4 → [20,30,40]
 
 ---
-9. Remove every second element
+8. Remove every second element
 
 Write a function that removes every second element from a list using slicing.
 Example: [1,2,3,4,5,6] → [1,3,5]
 
 ---
-10. Find max and min in a list
+9. Find max and min in a list
 
 Write a function that returns the maximum and minimum values from a list using a loop.
 Example: [3, 7, 2, 9, 4] → (9, 2)
