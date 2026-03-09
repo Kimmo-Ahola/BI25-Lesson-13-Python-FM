@@ -44,28 +44,6 @@ Ask the user for a name and print "Found!" if it is in the list. Print "Not Foun
 ---
 6. Exercise 6
 
-grades = {"Alice": 90, "Bob": 85, "Charlie": 92}
-
-Print each student’s name.
-
----
-7. Exercise 7
-
-Print each student’s grade from the dictionary above.
-
----
-8. Exercise 8
-
-Print statements like "Alice has the grade 90" for each student in the dictionary. Use a loop and an f string to print the result.
-
----
-9. Exercise 9
-
-Increase every student’s grade by 5 points in the dictionary.
-
----
-10. Exercise 10
-
 Given the string:
 
 text = "PythonProgramming"
@@ -73,7 +51,7 @@ text = "PythonProgramming"
 Extract the substring "Python" using slicing.
 
 ---
-11. Exercise 11
+7. Exercise 7
 
 Given the same string:
 
@@ -82,7 +60,7 @@ text = "PythonProgramming"
 Extract the substring "Programming" using slicing.
 
 ---
-12. Exercise 12
+8. Exercise 8
 
 Given the string:
 
@@ -91,7 +69,7 @@ text = "PythonProgramming"
 Extract every second character from the string.
 
 ---
-13. Exercise 13
+9. Exercise 9
 
 Given the string:
 
@@ -100,7 +78,7 @@ text = "PythonProgramming"
 Reverse the string using slicing.
 
 ---
-14. Exercise 14
+10. Exercise 10
 
 Given the string:
 
@@ -109,7 +87,7 @@ text = "PythonProgramming"
 Extract the substring "thonProg" using slicing.
 
 ---
-15. Exercise 15
+11. Exercise 11
 
 Given the list:
 
@@ -118,7 +96,7 @@ numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 Extract the sublist [3, 4, 5, 6] using slicing.
 
 ---
-16. Exercise 16
+12. Exercise 12
 
 Given the same list:
 
@@ -127,7 +105,7 @@ numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 Extract all even-indexed elements.
 
 ---
-17. Exercise 17
+13. Exercise 13
 
 Given the same list:
 
@@ -136,7 +114,7 @@ numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 Reverse the list using slicing.
 
 ---
-18. Exercise 18
+14. Exercise 14
 
 Given the same list:
 
@@ -145,13 +123,36 @@ numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 Extract [1, 3, 5, 7] using slicing.
 
 ---
-19. Exercise 19
+15. Exercise 15
 
 Given the same list:
 
 numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 Extract [9, 7, 5, 3] using slicing.
+
+---
+
+16. Exercise 16
+
+grades = {"Alice": 90, "Bob": 85, "Charlie": 92}
+
+Print each student’s name.
+
+---
+17. Exercise 17
+
+Print each student’s grade from the dictionary above.
+
+---
+18. Exercise 18
+
+Print statements like "Alice has the grade 90" for each student in the dictionary. Use a loop and an f string to print the result.
+
+---
+19. Exercise 19
+
+Increase every student’s grade by 5 points in the dictionary.
 
 ---
 
